@@ -1,4 +1,4 @@
-# Credit Risk Analysis Dashboard
+  # Credit Risk Analysis Dashboard
 
 This project presents an interactive Power BI dashboard designed to analyze customer credit risk using financial and demographic data.
 
@@ -14,7 +14,7 @@ This project presents an interactive Power BI dashboard designed to analyze cust
 - Data Visualization
 
 ## Dashboard Preview
-![Dashboard](Screenshots/dashboard_overview.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ## Dataset
 The dataset contains anonymized customer financial and demographic attributes used for academic analysis.
